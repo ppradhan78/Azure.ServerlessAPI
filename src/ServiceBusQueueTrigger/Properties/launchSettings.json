@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ServiceBusQueueTrigger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7051",
+      "launchBrowser": false
+    }
+  }
+}
